@@ -3,8 +3,10 @@ import {LoadScene} from "./scenes/LoadScene";
 import {MenuScene} from "./scenes/MenuScene";
 import { GameScene } from './scenes/GameScene';
 let game = new Phaser.Game({
-    width: 1750,
-    height: 1000,
+    // game = new Phaser.Game(window.innerWidth * window.devicePixelRatio, window.innerHeight * window.devicePixelRatio, Phaser.CANVAS, 'gameArea');
+// 
+    width: window.innerWidth,
+    height: window.innerHeight,
     scene: [
         LoadScene, MenuScene, GameScene
 

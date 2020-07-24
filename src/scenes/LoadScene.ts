@@ -14,10 +14,8 @@ export class LoadScene extends Phaser.Scene {
         this.load.image("sea", "./assets/seattle_skyline_8bit.jpg");
         this.load.image("phone", "./assets/iphone.png");
         this.load.atlas("one","./assets/sonos_one_atlas.png", "./assets/sonos_one.json");
-
-
-
-
+        this.load.atlas("five","./assets/five_atlas.png", "./assets/five.json");
+        this.load.image("radar","./assets/radar.png"); 
 
 
         let loadingBar = this.add.graphics({

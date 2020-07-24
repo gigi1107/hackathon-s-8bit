@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "five_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 411,
+				"h": 95
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "five01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 1,
+						"w": 139,
+						"h": 93
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 139,
+						"h": 93
+					}
+				},
+				{
+					"filename": "five02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 3,
+						"w": 133,
+						"h": 89
+					},
+					"frame": {
+						"x": 142,
+						"y": 1,
+						"w": 133,
+						"h": 89
+					}
+				},
+				{
+					"filename": "five00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 3,
+						"w": 133,
+						"h": 87
+					},
+					"frame": {
+						"x": 277,
+						"y": 1,
+						"w": 133,
+						"h": 87
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4f40e6b2771253d07506ec0ed0ffc6b4:e45bbfa782dfff8698678f2c219b5eaa:3902aa6de77853096d1f312d01cf5e72$"
+	}
+}
