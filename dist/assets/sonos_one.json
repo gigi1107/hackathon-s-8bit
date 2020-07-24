@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "sonos_one_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 228,
+				"h": 92
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sonos_one03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 5,
+						"w": 78,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 78,
+						"h": 90
+					}
+				},
+				{
+					"filename": "sonos_one01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 81,
+						"y": 1,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "sonos_one00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 70,
+						"h": 88
+					},
+					"frame": {
+						"x": 157,
+						"y": 1,
+						"w": 70,
+						"h": 88
+					}
+				},
+				{
+					"filename": "sonos_one02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 70,
+						"h": 88
+					},
+					"frame": {
+						"x": 157,
+						"y": 1,
+						"w": 70,
+						"h": 88
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a312133d9aae9fecc342807be6f76d3c:9284f356984200086319d71a43f96dc4:4c956422291e27b1a727441f47bd5d48$"
+	}
+}
